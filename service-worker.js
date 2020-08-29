@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/scrapingapp/precache-manifest.083112945fbba53ec56f600fd00cab25.js"
+  "/scrapingapp/precache-manifest.9a3853470f0d67f36ee8e1cc94971b10.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "seleniumbyexamplesapp"});
